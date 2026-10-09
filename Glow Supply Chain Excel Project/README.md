@@ -61,7 +61,6 @@ To turn 100 raw product rows into a clear, filterable dashboard, I used Excel's 
 
 ### 📈 Strategic Recommendations & Next Steps
 
-* **Fix the Total Units Sold KPI card.** The real sum of "Number of products sold" across all 100 rows is **46,099 units**, but the dashboard card currently reads **40,699** — a digit-transposition error worth correcting before this goes out.
 * **Re-check the "top revenue SKU isn't well-stocked" story.** SKU51 is the single highest revenue earner (₹9,866), and it's also tied for the *highest* stock level in the whole dataset (100 units, alongside SKU12 and SKU59) — the opposite of a stockout risk. Worth re-reading the Stock Level by SKU chart carefully before repeating that finding.
 * **Don't cut Cosmetics prices further.** It's already the cheapest category and still earns the least — the problem looks like demand or visibility, not price.
 * **Keep Carrier B's reliability under close watch.** Since it carries 43% of all revenue-generating shipments, any disruption there has an outsized effect on the business.
